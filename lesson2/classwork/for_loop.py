@@ -1,7 +1,4 @@
 # print("Hello")
-# print("Hello")
-# print("Hello")
-# print("Hello")
 
 for i in range(4):  # range(4) means the for loop runs 4 times
     print("Hello")  # whatever is indented runs range(n) times
